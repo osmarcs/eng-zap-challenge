@@ -1,0 +1,15 @@
+{
+  "extends": ["prettier", "prettier/react", "airbnb"],
+  "plugins": ["jest", "prettier"],
+  "parser": "babel-eslint",
+  "env": {
+    "browser": true,
+    "node": true,
+    "es6": true,
+    "jest/globals": true
+  },
+  "rules": {
+    "no-debugger": 1,
+    "linebreak-style": 0
+  }
+}
