@@ -1,0 +1,17 @@
+:root {
+  --white: #FFF;
+  --gray: #CCC;
+  --gray-lighter: #AAA;
+  --black: #000;
+  --vivareal: '#1190CD';
+  --green: #4FBFA5;
+  --grid-base: 16px;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: var(--green);
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+}
