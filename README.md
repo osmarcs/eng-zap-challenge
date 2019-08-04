@@ -1,5 +1,10 @@
 ## ZAP VIVAREAL
 
+**Regras:**
+
+[Regras](https://grupozap.github.io/cultura/challenges/engineering.html)  
+[Prototipo](http://grupozap-code-challenge.s3-website-us-east-1.amazonaws.com)
+
 **Instalação:**
 
 ```
